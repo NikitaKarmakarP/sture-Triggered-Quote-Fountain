@@ -1,6 +1,6 @@
 ## Gesture-Triggered Quote Fountain 🌸💬
 
-A beautiful, interactive Python project that displays motivational quotes based on hand gestures. Built using OpenCV, MediaPipe, and Pygame.
+**A beautiful, interactive Python project that displays motivational quotes based on hand gestures. Built using OpenCV, MediaPipe, and Pygame.**
 
 ## ✨ Features
 
